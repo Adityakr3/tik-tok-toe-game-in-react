@@ -3,7 +3,12 @@ import './TikTokToe.css'
 
 export const TikTokToe = () => {
   return (
+    <>
     <nav>Tik Tok Toe Game</nav>
+    <div className="main">
+
+    </div>
+    </>
 
   )
 }
